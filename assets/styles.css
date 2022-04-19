@@ -145,6 +145,12 @@ body.wrong {
 }
 
 
+.about h1,
+h3 {
+    text-align: center;
+    font-size: 1.3em;
+    color: #4eefff;
+}
 
 /* The Modal (background) */
 .modal {

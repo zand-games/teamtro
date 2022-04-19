@@ -171,7 +171,7 @@ const questions = [
             { text: 'tom', correct: false, desc: `<img class='img-story' src='${getGoogleDriveImageUrl("tom")}'/> If you would like to join us please bring your internal tom or any other animal.` },
             { text: 'penguin', correct: false, desc: `<img class='img-story' src='${getGoogleDriveImageUrl("penguin")}'/> If you would like to join us please bring your internal penguin or any other animal.` },
         ],
-        posttext: "<br/> <br/> Thank you",
+        posttext: "<br/> <br/> <h3>Thank you!</h3>",
         button: ""
     }
 ]
