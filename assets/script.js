@@ -151,7 +151,7 @@ const questions = [
             { text: 'turtle', correct: false, desc: `<img class='img-story' src='${getImage("turtle")}'/>A slow turtle can be a good team member. Do you have it or know it?` },
             { text: 'question', correct: false, desc: `<img class='img-story' src='${getImage("question")}'/> Hmm you also don't know who can be the next team member. Would you like to discover yourself more?.` },
         ],
-        posttext: "<br/> <br/> <h3>Thank you!</h3><h4><a href='http://www.zand.games/' target='blank'>ZAND.GAMES Teamtro</a><h4>",
+        posttext: "<br/> <br/> <h3>Thank you!</h3><h4><a href='http://www.zand.games/'>ZAND.GAMES Teamtro</a><h4><p><button id='btnplay' class='start-btn btn' onClick='window.location.reload()'>Play Again!</button><p/>",
         button: ""
     }
 ]
