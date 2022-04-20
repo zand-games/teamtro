@@ -152,6 +152,14 @@ h3 {
     color: #4eefff;
 }
 
+.about h4,
+a {
+    text-align: center;
+    font-size: 1.1em;
+    color: #B3531D;
+    text-decoration: none;
+}
+
 /* The Modal (background) */
 .modal {
     display: none;
