@@ -108,7 +108,7 @@ const questions = [
     },
     {
         id: 4,
-        question: 'Who deserve your F**K words if needed?',
+        question: 'Who is responsible for all the stupid ideas in this container?',
         answers: [
             { text: 'hedayat', correct: true, desc: `<img class='img-story' src='${getImage("hedayat")}'/> Exactly, Hedayat takes responsibility for all the silly ideas in this container. Don't target others. ` },
             { text: 'panda', correct: false, desc: `<img class='img-story' src='${getImage("hedayat")}'/> What? a lovely panda? No they didn't do anything here. Hedayat takes responsibility for all the silly ideas you see on this container. Don't target others. ` },
@@ -123,8 +123,8 @@ const questions = [
         question: 'Commercial, Connection, Bridge, Business, Token, DAO, Blockchain, Holochain, Challenge, NFT. These tornifed words can be used to describe which one better?',
         answers: [
             { text: 'david', correct: true, desc: `<img class='img-story' src='${getImage("david")}'/> Absolutely correct, it is David who fits a lot with these topics: Commercial, Connection, Bridge, Business, Token, DAO, Blockchain, Holochain, Challenge, NFT and much more.  ` },
-            { text: 'buddy', correct: false, desc: `<img class='img-story' src='${getImage("david")}'/> Buddy can hold and support David to be fits for these topic: Commercial, Connection, Bridge, Business, Token, DAO, Blockchain, Holochain, Challenge, NFT and much more.  ` },
-            { text: 'hedayat', correct: false, desc: `<img class='img-story' src='${getImage("david")}'/> Hedayat would love to support David to be fits for these topic: Commercial, Connection, Bridge, Business, Token, DAO, Blockchain, Holochain, Challenge, NFT and much more.  .` },
+            { text: 'buddy', correct: false, desc: `<img class='img-story' src='${getImage("david")}'/> Buddy can hold and support David to be fit for these topic: Commercial, Connection, Bridge, Business, Token, DAO, Blockchain, Holochain, Challenge, NFT and much more.  ` },
+            { text: 'hedayat', correct: false, desc: `<img class='img-story' src='${getImage("david")}'/> Hedayat would love to support David to be fit for these topic: Commercial, Connection, Bridge, Business, Token, DAO, Blockchain, Holochain, Challenge, NFT and much more.  .` },
             { text: 'david', correct: true, desc: `<img class='img-story' src='${getImage("david")}'/> Absolutely correct, it is David who fits a lot with these topics: Commercial, Connection, Bridge, Business, Token, DAO, Blockchain, Holochain, Challenge, NFT and much more.  ` },
         ],
         posttext: " ",
