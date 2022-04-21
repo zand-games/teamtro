@@ -116,7 +116,7 @@ const questions = [
             { text: 'quala', correct: false, desc: `<img class='img-story' src='${getImage("hedayat")}'/>However hedayat's internal koala is big and sleepy all the time. But it is Hedayat that takes responsibility for all the silly ideas in this container. Don't target others.Please!  ` }
         ],
         posttext: " ",
-        button: "Play again!"
+        button: "And next!"
     },
     {
         id: 5,
